@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0wtYHOiIwC0wQS4WKPmky2wUJ/qEeKueKGbLgwre54w=",
+  "Source": "codeDojoApi",
+  "BasePath": "_content/codeDojoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
