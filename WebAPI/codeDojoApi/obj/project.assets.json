@@ -1083,19 +1083,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kaua-\\.nuget\\packages\\": {}
+    "C:\\Users\\42470848873\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaua-\\OneDrive\\Área de Trabalho\\codeDojoApi\\codeDojoApi.csproj",
+      "projectUniqueName": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\codeDojoApi.csproj",
       "projectName": "codeDojoApi",
-      "projectPath": "C:\\Users\\kaua-\\OneDrive\\Área de Trabalho\\codeDojoApi\\codeDojoApi.csproj",
-      "packagesPath": "C:\\Users\\kaua-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaua-\\OneDrive\\Área de Trabalho\\codeDojoApi\\obj\\",
+      "projectPath": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\codeDojoApi.csproj",
+      "packagesPath": "C:\\Users\\42470848873\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kaua-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\42470848873\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kaua-\\OneDrive\\\u00C1rea de Trabalho\\codeDojoApi\\",
+  "WorkspaceRootPath": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|c:\\users\\kaua-\\onedrive\\\u00E1rea de trabalho\\codedojoapi\\controllers\\azurespeechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|c:\\users\\42470848873\\desktop\\codedojog2\\webapi\\codedojoapi\\controllers\\azurespeechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|solutionrelative:controllers\\azurespeechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|c:\\users\\kaua-\\onedrive\\\u00E1rea de trabalho\\codedojoapi\\utils\\azurespeech\\azurespeechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|c:\\users\\42470848873\\desktop\\codedojog2\\webapi\\codedojoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|c:\\users\\42470848873\\desktop\\codedojog2\\webapi\\codedojoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|c:\\users\\42470848873\\desktop\\codedojog2\\webapi\\codedojoapi\\utils\\azurespeech\\azurespeechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|solutionrelative:utils\\azurespeech\\azurespeechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|c:\\users\\kaua-\\onedrive\\\u00E1rea de trabalho\\codedojoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|c:\\users\\42470848873\\desktop\\codedojog2\\webapi\\codedojoapi\\codedojoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|solutionrelative:codedojoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|c:\\users\\42470848873\\desktop\\codedojog2\\webapi\\codedojoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|c:\\users\\kaua-\\onedrive\\\u00E1rea de trabalho\\codedojoapi\\codedojoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|c:\\users\\42470848873\\desktop\\codedojog2\\webapi\\codedojoapi\\codedojoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8EBF94C2-9EAB-467B-9DCD-4D0CAA0E103D}|codeDojoApi.csproj|solutionrelative:codedojoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -26,59 +38,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:36:33.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T18:51:22.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "codeDojoApi",
+              "DocumentMoniker": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\codeDojoApi.csproj",
+              "RelativeDocumentMoniker": "codeDojoApi.csproj",
+              "ToolTip": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\codeDojoApi.csproj",
+              "RelativeToolTip": "codeDojoApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T18:51:19.769Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AzureSpeechController.cs",
-              "DocumentMoniker": "C:\\Users\\kaua-\\OneDrive\\\u00C1rea de Trabalho\\codeDojoApi\\Controllers\\AzureSpeechController.cs",
+              "DocumentMoniker": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\Controllers\\AzureSpeechController.cs",
               "RelativeDocumentMoniker": "Controllers\\AzureSpeechController.cs",
-              "ToolTip": "C:\\Users\\kaua-\\OneDrive\\\u00C1rea de Trabalho\\codeDojoApi\\Controllers\\AzureSpeechController.cs",
+              "ToolTip": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\Controllers\\AzureSpeechController.cs",
               "RelativeToolTip": "Controllers\\AzureSpeechController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T19:52:11.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kaua-\\OneDrive\\\u00C1rea de Trabalho\\codeDojoApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\kaua-\\OneDrive\\\u00C1rea de Trabalho\\codeDojoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T19:48:45.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T19:48:45.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AzureSpeechService.cs",
-              "DocumentMoniker": "C:\\Users\\kaua-\\OneDrive\\\u00C1rea de Trabalho\\codeDojoApi\\Utils\\AzureSpeech\\AzureSpeechService.cs",
+              "DocumentMoniker": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\Utils\\AzureSpeech\\AzureSpeechService.cs",
               "RelativeDocumentMoniker": "Utils\\AzureSpeech\\AzureSpeechService.cs",
-              "ToolTip": "C:\\Users\\kaua-\\OneDrive\\\u00C1rea de Trabalho\\codeDojoApi\\Utils\\AzureSpeech\\AzureSpeechService.cs",
+              "ToolTip": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\Utils\\AzureSpeech\\AzureSpeechService.cs",
               "RelativeToolTip": "Utils\\AzureSpeech\\AzureSpeechService.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAswAcAAABGAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T19:38:12.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "codeDojoApi",
-              "DocumentMoniker": "C:\\Users\\kaua-\\OneDrive\\\u00C1rea de Trabalho\\codeDojoApi\\codeDojoApi.csproj",
+              "DocumentIndex": 6,
+              "Title": "codeDojoApi.csproj",
+              "DocumentMoniker": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\codeDojoApi.csproj",
               "RelativeDocumentMoniker": "codeDojoApi.csproj",
-              "ToolTip": "C:\\Users\\kaua-\\OneDrive\\\u00C1rea de Trabalho\\codeDojoApi\\codeDojoApi.csproj",
+              "ToolTip": "C:\\Users\\42470848873\\Desktop\\CodeDojoG2\\WebAPI\\codeDojoApi\\codeDojoApi.csproj",
               "RelativeToolTip": "codeDojoApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-15T19:36:58.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T19:36:58.592Z"
             }
           ]
         }

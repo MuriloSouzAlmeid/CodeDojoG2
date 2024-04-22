@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("codeDojoApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30f8ea466b7e7ae43b57f1d2a0c92192b690df49")]
 [assembly: System.Reflection.AssemblyProductAttribute("codeDojoApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("codeDojoApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
